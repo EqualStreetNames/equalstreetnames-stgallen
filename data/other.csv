@@ -1,4 +1,6 @@
 name,source,gender,wikidata,type
+Ikarusstrasse,wikidata,,Q34041,way
+Taubenstrasse,wikidata,,Q10856,way
 Achslenstrasse,,,,way
 Achslenweg,,,,way
 Ackerstrasse,,,,way
@@ -46,7 +48,6 @@ Bärenplatz,,,,way
 Bärenweg,,,,way
 Bauhofstrasse,,,,way
 Baumgartenstrasse,,,,way
-Beatusstrasse,,,,way
 Bedastrasse,,,,way
 Bergbachweg,,,,way
 Berghaldenstrasse,,,,way
@@ -57,7 +58,6 @@ Berneggstrasse,,,,way
 Berneggtreppe,,,,way
 Bernhardswiesstrasse,,,,way
 Bernhardswiesweg,,,,way
-Biderstrasse,,,,way
 Bienengässlein,,,,way
 Bildstrasse,,,,way
 Bildweiherstrasse,,,,way
@@ -75,7 +75,6 @@ Bitzistrasse,,,,way
 Blarerstrasse,,,,way
 Bleicheliweg,,,,way
 Bleichestrasse,,,,way
-Blériotweg,,,,way
 Blumenaustrasse,,,,way
 Blumenbergplatz,,,,way
 Blumenstrasse,,,,way
@@ -146,7 +145,6 @@ Drosselweg,,,,way
 Dufourstrasse,,,,way
 Dunantstrasse,,,,way
 Dunantweg,,,,way
-Dürrenmattstrasse,,,,way
 Ebenalpstrasse,,,,way
 Ebnetstrasse,,,,way
 Eichenstrasse,,,,way
@@ -228,7 +226,6 @@ Gallusweg,,,,way
 Gartenstrasse,,,,way
 Gatterstrasse,,,,way
 Gauklerweg,,,,way
-Geigerstrasse,,,,way
 Geissbergstrasse,,,,way
 Geissbüelweg,,,,way
 Gellertstrasse,,,,way
@@ -269,8 +266,6 @@ Grünhaldenstrasse,,,,way
 Grüningerweg,,,,way
 Grütlistrasse,,,,way
 Grütliweg,,,,way
-Gsellstrasse,,,,way
-Gsellweg,,,,way
 Gübsenseeweg,,,,way
 Gübsenstrasse,,,,way
 Gübsenweg,,,,way
@@ -369,7 +364,6 @@ Hüttenwiesstrasse,,,,way
 Hüttenwiesweg,,,,way
 Idaweg,,,,way
 Iddastrasse,,,,way
-Ikarusstrasse,,,,way
 Ilgenstrasse,,,,way
 Iltisstrasse,,,,way
 "Im Feld",,,,way
@@ -380,7 +374,6 @@ Industriestrasse,,,,way
 "Inneres Hofgässlein",,,,way
 Isenringweg,,,,way
 Jägerstrasse,,,,way
-Jahnstrasse,,,,way
 Joosrüti,,,,way
 Joosrütistrasse,,,,way
 Joosrütiweg,,,,way
@@ -461,7 +454,6 @@ Letzistrasse,,,,way
 Leuenbergerstrasse,,,,way
 Lienertstrasse,,,,way
 Lilienstrasse,,,,way
-Lilienthalstrasse,,,,way
 Lindenstrasse,,,,way
 Lindentalstrasse,,,,way
 Lindentalweg,,,,way
@@ -497,7 +489,6 @@ Metallstrasse,,,,way
 Metzgergasse,,,,way
 Militärstrasse,,,,way
 Mingerstrasse,,,,way
-Mittelholzerstrasse,,,,way
 "Mittlerer Hompeliweg",,,,way
 "Mittleres Hofgässlein",,,,way
 Molkenstrasse,,,,way
@@ -583,7 +574,6 @@ Poststrasse,,,,way
 "Primarschule Halden",,,,way
 Primelweg,,,,way
 Quellenstrasse,,,,way
-Quimbystrasse,,,,way
 Rabenstrasse,,,,way
 Raiffeisenplatz,,,,way
 Ramsenstrasse,,,,way
@@ -788,7 +778,6 @@ Tanneichenweg,,,,way
 Tanneichstrasse,,,,way
 Tannensteig,,,,way
 Tannenstrasse,,,,way
-Taubenstrasse,,,,way
 Tellstrasse,,,,way
 Telltreppe,,,,way
 Tempelackerstrasse,,,,way
@@ -871,7 +860,6 @@ Wolfgangshofweg,,,,way
 Wolfgangstrasse,,,,way
 Wolfgangweg,,,,way
 Zentralstrasse,,,,way
-Zeppelinstrasse,,,,way
 Zeughausgasse,,,,way
 Ziegeleistrasse,,,,way
 Ziegeleiweg,,,,way
