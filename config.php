@@ -34,7 +34,11 @@ return [
     'instances' => [
         'Q5'        => true,  // human
         'Q2985549'  => true,  // mononymous person
+        'Q4271324'  => true,  // mythical character
+        'Q11688446' => true,  // Roman deity
+        'Q15632617' => true,  // fictional human
         'Q20643955' => true,  // human biblical figure
+        'Q22988604' => true,  // mythological Greek character
 
         'Q8436'     => false, // family
         'Q101352'   => false, // family name
