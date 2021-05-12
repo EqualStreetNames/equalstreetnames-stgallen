@@ -15,4 +15,4 @@ You can contribute to OpenStreetMap by adding the tag name:etymology:wikidata=\<
 
 * all `highway`s *with* a `name:etymology:wikidata`-tag in St. Gallen: [Overpass-Query](https://osm.li/0bI)
 * all `highway`s *without* a `name:etymology:wikidata`-tag in St. Gallen: [Overpass-Query](https://osm.li/3bI)
-* Official list (pending, see #1)
+* official list (done, see [#1](https://github.com/EqualStreetNames/equalstreetnames-stgallen/issues/1))
