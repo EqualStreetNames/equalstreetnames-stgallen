@@ -3,6 +3,7 @@ Helvetiastrasse,wikidata,,Q48616,way
 Kugelgasse,wikidata,,Q12134,way
 Taubenstrasse,wikidata,,Q10856,way
 Zylistrasse,wikidata,,Q99364768,way
+"Abtwiler Weg",,,,way
 Achslenstrasse,,,,way
 Achslenweg,,,,way
 Ackerstrasse,,,,way
@@ -15,7 +16,7 @@ Alderbergtreppe,,,,way
 Alleestrasse,,,,way
 Alpsteinstrasse,,,,way
 "Alte Bildstrasse",,,,way
-"Alte Holzbrücke",,,,way
+"Alte Hundwiler Leiter",,,,way
 "Alte Konstanzerstrasse",,,,way
 "Alte Thurgauer Strasse",,,,way
 Altenwegenstrasse,,,,way
@@ -26,6 +27,7 @@ Altwinkelnstrasse,,,,way
 "Am Pärkli",,,,way
 "Am Stutz",,,,way
 Amselweg,,,,way
+Anschwilerweg,,,,way
 Apfelbergweg,,,,way
 "Appenzeller Strasse",,,,way
 "Auf dem Damm",,,,way
@@ -47,6 +49,7 @@ Bärenplatz,,,,way
 Bärenweg,,,,way
 Bauhofstrasse,,,,way
 Baumgartenstrasse,,,,way
+Bellonatalweg,,,,way
 Bergbachweg,,,,way
 Berghaldenstrasse,,,,way
 Bergstrasse,,,,way
@@ -98,6 +101,7 @@ Brühlgasse,,,,way
 Brühltor-Passage,,,,way
 Brühlweg,,,,way
 Brunneggstrasse,,,,way
+Brunnenbergstieg,,,,way
 Brunnenbergstrasse,,,,way
 Bucheggstrasse,,,,way
 Büchelstrasse,,,,way
@@ -113,6 +117,7 @@ Bürglistrasse,,,,way
 Burgstrasse,,,,way
 Burgweier,,,,way
 Burgweierweg,,,,way
+Chlausenmülistrasse,,,,way
 Dahlienstrasse,,,,way
 Davidstrasse,,,,way
 Demutstrasse,,,,way
@@ -130,6 +135,7 @@ Dreilindenweg,,,,way
 Drosselweg,,,,way
 Ebenalpstrasse,,,,way
 Ebnetstrasse,,,,way
+Egghöhenweg,,,,way
 Eichenstrasse,,,,way
 Eisbahnstrasse,,,,way
 Eisbahnweg,,,,way
@@ -195,6 +201,7 @@ Gartenstrasse,,,,way
 Gatterstrasse,,,,way
 Gauklerweg,,,,way
 "Gedeckte Holzbrücke Sitter",,,,way
+"Gedeckte Spiseggbrücke 1779",,,,way
 Geissbergstrasse,,,,way
 Geissbüelweg,,,,way
 Geltenwilenstrasse,,,,way
@@ -207,6 +214,7 @@ Glärnischstrasse,,,,way
 Glaserstrasse,,,,way
 Glockengasse,,,,way
 Goldachtobel-Basisstrasse,,,,way
+Goldachtobelweg,,,,way
 Goldbrunnenstrasse,,,,way
 Goldbrunnenweg,,,,way
 Goliathgasse,,,,way
@@ -243,7 +251,7 @@ Hafsnerbergstrasse,,,,way
 Hagenbuchstrasse,,,,way
 Hagenbuchwaldweg,,,,way
 "Hagenwiler Strasse",,,,way
-Haggenbrücke,,,,way
+"Haggenbrücke (Ganggelibrugg)",,,,way
 Haggenhaldenstrasse,,,,way
 Haggenhaldenweg,,,,way
 Haggenstrasse,,,,way
@@ -298,6 +306,7 @@ Huebstrasse,,,,way
 Hügelstrasse,,,,way
 Hügelweg,,,,way
 "Hundwiler Leiter",,,,way
+"Hüslibrücke Wattbach",,,,way
 Hüttenweg,,,,way
 Hüttenwiesstrasse,,,,way
 Hüttenwiesweg,,,,way
@@ -355,6 +364,7 @@ Kronbergsteig,,,,way
 Kronbergstrasse,,,,way
 Krontalstrasse,,,,way
 Kruggasse,,,,way
+Kubelstrasse,,,,way
 Kurzbergstrasse,,,,way
 Laderenweg,,,,way
 Lagerstrasse,,,,way
@@ -489,6 +499,7 @@ Rabenstrasse,,,,way
 Ramsenstrasse,,,,way
 Rappensteinstrasse,,,,way
 Rappensteinweg,,,,way
+Rathausunterführung,,,,way
 Rechensteg,,,,way
 Rechenstrasse,,,,way
 Rechenwaldstrasse,,,,way
@@ -516,13 +527,13 @@ Rosenbergstrasse,,,,way
 Rosenbergweg,,,,way
 Rosenbüchelstrasse,,,,way
 Rosenbüchelweg,,,,way
+Rosenfeldstrasse,,,,way
 Rosenfeldweg,,,,way
 Rosengartenstrasse,,,,way
 Rosengartentreppe,,,,way
 Rosengasse,,,,way
 Rosenheimstrasse,,,,way
 Rosensteig,,,,way
-Rosenstrasse,,,,way
 Rössliweg,,,,way
 Rötelistrasse,,,,way
 Röteliweg,,,,way
@@ -531,6 +542,7 @@ Rotmontenweg,,,,way
 Ruckhaldentreppe,,,,way
 Ruckhaldenweg,,,,way
 Ruhbergstrasse,,,,way
+Rüheggweg,,,,way
 Ruhsitzstrasse,,,,way
 Ruhsitzweg,,,,way
 Russenstrasse,,,,way
@@ -539,7 +551,6 @@ Rütistrasse,,,,way
 Rütiweiherweg,,,,way
 Sägegässlein,,,,way
 Sandrainstrasse,,,,way
-"Sankt Georgenstrasse",,,,way
 Schachenbüelweg,,,,way
 Schachenstrasse,,,,way
 Schäflerstrasse,,,,way
@@ -580,7 +591,7 @@ Schoretshuebstrasse,,,,way
 Schoretshuebweg,,,,way
 Schreinerstrasse,,,,way
 Schreinerweg,,,,way
-Schuppistrasse,,,,way
+Schuppisstrasse,,,,way
 Schützengartenweg,,,,way
 Schützengasse,,,,way
 Schutzengelweg,,,,way
@@ -613,12 +624,14 @@ Sonnmattstrasse,,,,way
 Sonnmattweg,,,,way
 Sonnrainweg,,,,way
 Speerstrasse,,,,way
+Speichersteig,,,,way
 Speicherstrasse,,,,way
 Spichermannstrasse,,,,way
 Spichermannweg,,,,way
 Spiltrücklistrasse,,,,way
 Spinnereistrasse,,,,way
 Spinnereiweg,,,,way
+Spiseggbrücke,,,,way
 Spisergasse,,,,way
 Spitalgasse,,,,way
 Spitalstrasse,,,,way
@@ -626,7 +639,6 @@ Splügenstrasse,,,,way
 Splügenweg,,,,way
 "St. Gallerstrasse",,,,way
 "St. Georgen-Strasse",,,,way
-"St. Georgenstrasse",,,,way
 "St. Jakob-Strasse",,,,way
 "St. Josefen-Strasse",,,,way
 "St. Leonhard-Strasse",,,,way
@@ -637,6 +649,7 @@ Stahlstrasse,,,,way
 Starweg,,,,way
 Stationsstrasse,,,,way
 Stationsweg,,,,way
+Staubhusenstrasse,,,,way
 Steinachstrasse,,,,way
 Steinbockstrasse,,,,way
 Steineggwaldweg,,,,way
@@ -669,7 +682,6 @@ Tannensteig,,,,way
 Tannenstrasse,,,,way
 Tempelackerstrasse,,,,way
 "Teufener Strasse",,,,relation+way
-Teufenerstrasse,,,,way
 Tigerbergstrasse,,,,way
 Tivoliweg,,,,way
 Torstrasse,,,,way
