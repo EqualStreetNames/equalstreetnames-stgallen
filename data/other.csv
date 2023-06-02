@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 Helvetiastrasse,wikidata,,Q48616,way
 Kugelgasse,wikidata,,Q12134,way
+Lavaterstrasse,wikidata,,Q123918,way
 Taubenstrasse,wikidata,,Q10856,way
 Zylistrasse,wikidata,,Q99364768,way
 "Abtwiler Weg",,,,way
@@ -48,6 +49,7 @@ Badstrasse,,,,way
 Bahnhofplatz,,,,way
 Bahnhofstrasse,,,,way
 Bankgasse,,,,way
+Bänkliweg,,,,way
 Bärenplatz,,,,way
 Bärenweg,,,,way
 Bauhofstrasse,,,,way
@@ -222,7 +224,7 @@ Goldachtobelweg,,,,way
 Goldbrunnenstrasse,,,,way
 Goldbrunnenweg,,,,way
 Goliathgasse,,,,way
-"Grafenau 2",,,,way
+Grafenau,,,,way
 Greifenstrasse,,,,way
 Greifentreppe,,,,way
 Grenzstrasse,,,,way
@@ -390,6 +392,7 @@ Lerchentalweg,,,,way
 Lettenstrasse,,,,way
 Letzistrasse,,,,way
 Lilienstrasse,,,,way
+Lindeliweg,,,,way
 Lindenstrasse,,,,way
 Lindentalstrasse,,,,way
 Lindentalweg,,,,way
