@@ -1,7 +1,13 @@
 name,source,gender,wikidata,type
 Helvetiastrasse,wikidata,,Q48616,way
 Kugelgasse,wikidata,,Q12134,way
+Rehetobelstrasse,wikidata,,Q67182,way
+"Rorschacher Strasse",wikidata,,Q68250,way
+Speicherstrasse,wikidata,,Q67148,way
+"St. Gallerstrasse",wikidata,,Q25607,way
 Taubenstrasse,wikidata,,Q10856,way
+"Teufener Strasse",wikidata,,Q67209,relation+way
+"Zürcher Strasse",wikidata,,Q72,way
 Zylistrasse,wikidata,,Q99364768,way
 "Abtwiler Weg",,,,way
 Achslenstrasse,,,,way
@@ -411,12 +417,14 @@ Magnihalden,,,,way
 Marktgasse,,,,way
 Marktplatz,,,,relation+way
 Marsstrasse,,,,way
+Martinsbrücke,,,,way
 Martinsbruggstrasse,,,,way
 Marweesstrasse,,,,way
 Mattenweg,,,,way
 Meisenstrasse,,,,way
 Melonenstrasse,,,,way
 Menzlenstrasse,,,,way
+Menzlenwaldweg,,,,way
 Merkurstrasse,,,,way
 Metallstrasse,,,,way
 Metzgergasse,,,,way
@@ -512,7 +520,6 @@ Rechenstrasse,,,,way
 Rechenwaldstrasse,,,,way
 Rechenwaldweg,,,,way
 Rehburgstrasse,,,,way
-Rehetobelstrasse,,,,way
 Rehweidstrasse,,,,way
 Remishuebstrasse,,,,way
 Resedastrasse,,,,way
@@ -526,7 +533,6 @@ Riethüsliweg,,,,way
 Rietweg,,,,way
 Ringelbergstrasse,,,,way
 Ringelbergweg,,,,way
-"Rorschacher Strasse",,,,way
 Rosenberg-Unterführung,,,,way
 Rosenbergstrasse,,,,way
 "Rosenbergtunnel Nord",,,,way
@@ -631,7 +637,6 @@ Sonnmattweg,,,,way
 Sonnrainweg,,,,way
 Speerstrasse,,,,way
 Speichersteig,,,,way
-Speicherstrasse,,,,way
 Spichermannstrasse,,,,way
 Spichermannweg,,,,way
 Spiltrücklistrasse,,,,way
@@ -643,7 +648,6 @@ Spitalgasse,,,,way
 Spitalstrasse,,,,way
 Splügenstrasse,,,,way
 Splügenweg,,,,way
-"St. Gallerstrasse",,,,way
 "St. Georgen-Strasse",,,,way
 "St. Jakob-Strasse",,,,way
 "St. Josefen-Strasse",,,,way
@@ -688,7 +692,6 @@ Tanneichstrasse,,,,way
 Tannensteig,,,,way
 Tannenstrasse,,,,way
 Tempelackerstrasse,,,,way
-"Teufener Strasse",,,,relation+way
 Tigerbergstrasse,,,,way
 Tivoliweg,,,,way
 Torstrasse,,,,way
@@ -766,8 +769,6 @@ Zieglerstrasse,,,,way
 Zilstrasse,,,,way
 Zilweg,,,,way
 Zimmerstrasse,,,,way
-"Zürcher Strasse",,,,way
-ZürcherStrasse,,,,way
 Zweibruggenmühlestrasse,,,,way
 Zypressenweg,,,,way
 "unterer Fidesweg",,,,way
