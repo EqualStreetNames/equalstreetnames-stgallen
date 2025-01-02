@@ -16,15 +16,18 @@ Ackerstrasse,,,,way
 Adlerbergstrasse,,,,way
 Adlergasse,,,,way
 Aetschbergstrasse,,,,way
+"Aeussere Schellenstrasse",,,,way
 "Aeusserer Sonnenweg",,,,way
+"Aeusseres Hofgässlein",,,,way
 Ahornstrasse,,,,way
 Alderbergtreppe,,,,way
 Alleestrasse,,,,way
 Allmendstrasse,,,,way
 Alpsteinstrasse,,,,way
+"Alte Autobahnausfahrt",,,,way
 "Alte Bildstrasse",,,,way
 "Alte Hundwiler Leiter",,,,way
-"Alte Konstanzerstrasse",,,,way
+"Alte Konstanzer Strasse",,,,way
 "Alte Thurgauer Strasse",,,,way
 Altenwegenstrasse,,,,way
 "Alter Heinrichsbadweg",,,,way
@@ -41,8 +44,6 @@ Apfelbergweg,,,,way
 Asternweg,,,,way
 "Auf dem Damm",,,,way
 Augustinergasse,,,,way
-"Äussere Schellenstrasse",,,,way
-"Äusseres Hofgässlein",,,,way
 Austrasse,,,,way
 Auwaldweg,,,,way
 Auweg,,,,way
@@ -60,14 +61,17 @@ Bärenweg,,,,way
 Bauhofstrasse,,,,way
 Baumgartenstrasse,,,,way
 Beckenhaldenstrasse,,,,way
+Beginenweg,,,,way
 Bellonatalweg,,,,way
 Bergbachweg,,,,way
+Berghaldenplatz,,,,way
 Berghaldenstrasse,,,,way
 Bergstrasse,,,,way
 Bergtreppe,,,,way
 Berneggstollen,,,,way
 Berneggstrasse,,,,way
 Berneggtreppe,,,,way
+Bernhardsbachweg,,,,way
 Bernhardsweg,,,,way
 Bernhardswiesstrasse,,,,way
 Bernhardswiesweg,,,,way
@@ -126,7 +130,7 @@ Burggraben,,,,way
 Bürglistrasse,,,,way
 Burgstrasse,,,,way
 Burgweier,,,,way
-Burgweierweg,,,,way
+Burgweiherweg,,,,way
 Chlausenmülistrasse,,,,way
 Dahlienstrasse,,,,way
 Davidstrasse,,,,way
@@ -143,6 +147,7 @@ Dreilindenhang,,,,way
 Dreilindenstrasse,,,,way
 Dreilindenweg,,,,way
 Drosselweg,,,,way
+"Durchgang Karlstor",,,,way
 Ebenalpstrasse,,,,way
 Ebnetstrasse,,,,way
 Egghöhenweg,,,,way
@@ -216,11 +221,13 @@ Gauklerweg,,,,way
 Geissbergstrasse,,,,way
 Geissbüelweg,,,,way
 Geltenwilenstrasse,,,,way
+Georgshof,,,,way
 Gerbestrasse,,,,way
 Gerbeweg,,,,way
 Gerenweg,,,,way
 Gerhaldenstrasse,,,,way
 Gesstreppe,,,,way
+Gitzibüelweg,,,,way
 Glärnischstrasse,,,,way
 Glaserstrasse,,,,way
 Glockengasse,,,,way
@@ -229,6 +236,7 @@ Goldachtobelweg,,,,way
 Goldbrunnenstrasse,,,,way
 Goldbrunnenweg,,,,way
 Goliathgasse,,,,way
+Gotthardweg,,,,way
 Grafenau,,,,way
 Greifenstrasse,,,,way
 Greifentreppe,,,,way
@@ -267,16 +275,19 @@ Haggenhaldenstrasse,,,,way
 Haggenhaldenweg,,,,way
 Haggenstrasse,,,,way
 Haldenhof,,,,way
+Haldenstrasse,,,,way
 Harfenbergstrasse,,,,way
 Harzbüchelstrasse,,,,way
 Harzbüchelweg,,,,way
 Haselstrasse,,,,way
+Hasenwäldliweg,,,,way
 Hasenwiesweg,,,,way
 Hätterensteg,,,,way
 Hätterenstrasse,,,,way
 Hätterenwaldweg,,,,way
 Hätterenweg,,,,way
 Hechtackerstrasse,,,,way
+Hechtackerweg,,,,way
 Hechtgasse,,,,way
 Heidengässlein,,,,way
 Heiligkreuzstrasse,,,,way
@@ -308,6 +319,7 @@ Hofstrasse,,,,way
 Hofweg,,,,way
 Höggersbergweg,,,,way
 Höhenweg,,,,way
+Hohenwiesenweg,,,,way
 Holweg,,,,way
 Holzstrasse,,,,way
 Hompelistrasse,,,,way
@@ -315,6 +327,7 @@ Hörlenweg,,,,way
 Hörnlistrasse,,,,way
 Horstweg,,,,way
 Huebstrasse,,,,way
+Huebweg,,,,way
 Hügelstrasse,,,,way
 Hügelweg,,,,way
 "Hundwiler Leiter",,,,way
@@ -344,10 +357,12 @@ Kapellenstrasse,,,,way
 Kapellenweg,,,,way
 Kapfwaldweg,,,,way
 Kapfweg,,,,way
+Karlstortreppe,,,,way
 Kasernenweg,,,,way
 Kasparstöckweg,,,,way
 Katharinengasse,,,,way
 Katzenstrebelweg,,,,way
+Kellersholzweg,,,,way
 Kesselhaldenhof,,,,way
 Kesselhaldenstrasse,,,,way
 Kesselhaldenweg,,,,way
@@ -377,7 +392,7 @@ Kronbergstrasse,,,,way
 Krontalstrasse,,,,way
 Kruggasse,,,,way
 Kubelstrasse,,,,way
-Kurzbergstrasse,,,,way
+Kurzenbergstrasse,,,,way
 Laderenweg,,,,way
 Lagerstrasse,,,,way
 Lämmlisbrunnenstrasse,,,,way
@@ -388,11 +403,13 @@ Langbruggweg,,,,way
 Langgasse,,,,way
 Langweidstrasse,,,,way
 Lässerhofstrasse,,,,way
-Leesstrasse,,,,way
+Laubengang,,,,way
+Leestrasse,,,,way
 Lehnhaldenstrasse,,,,way
 Lehnstrasse,,,,way
 Leimatstrasse,,,,way
 Lerchenfeldstrasse,,,,way
+Lerchenfeldweg,,,,way
 Lerchentalstrasse,,,,way
 Lerchentalweg,,,,way
 Lettenstrasse,,,,way
@@ -414,6 +431,7 @@ Lustgartenstrasse,,,,way
 Lusthüttenweg,,,,way
 Magniberg,,,,way
 Magnihalden,,,,way
+Malvenweg,,,,way
 Marktgasse,,,,way
 Marktplatz,,,,relation+way
 Marsstrasse,,,,way
@@ -435,10 +453,12 @@ Molkenstrasse,,,,way
 Moosbruggstrasse,,,,way
 Moosgartenstrasse,,,,way
 Moosgartenweg,,,,way
+Moosmühlestrasse,,,,way
 Moosmülistrasse,,,,way
 Moosstrasse,,,,way
 Moosweg,,,,way
 Moosweiherweg,,,,way
+Möslenstrasse,,,,way
 Möslenweg,,,,way
 Mossbruggtreppe,,,,way
 Mövenstrasse,,,,way
@@ -464,8 +484,10 @@ Neugasse,,,,way
 Neuhofstrasse,,,,way
 Neuhofweg,,,,way
 Nordstrasse,,,,way
+Nottenbergweg,,,,way
 Nussbaumstrasse,,,,way
 Nussbaumwaldstrasse,,,,way
+Oberbrandstrasse,,,,way
 "Obere Berneggstrasse",,,,way
 "Obere Büschenstrasse",,,,way
 "Obere Engelaustrasse",,,,way
@@ -482,7 +504,6 @@ Oberhaldenstrasse,,,,way
 Oberhaldenweg,,,,way
 Oberhofstettenstrasse,,,,way
 Oberhofstettenweg,,,,way
-Oberhohenwisen,,,,way
 Oberschachenstrasse,,,,way
 Oberstockenweg,,,,way
 Oberstrasse,,,,way
@@ -494,12 +515,14 @@ Panoramaweg,,,,way
 Pappelweg,,,,way
 Paradiesstrasse,,,,way
 Parketteriestrasse,,,,way
+Parkplatz,,,,way
 Parkstrasse,,,,way
 Passerellenweg,,,,way
 Pelikanstrasse,,,,way
 Pelikanweg,,,,way
-"Peter- und Paul-Weg",,,,way
+"Peter-und Paul-Weg",,,,way
 Peter-und-Paul-Strasse,,,,way
+Peter-und-Paul-Weg,,,,way
 Peter-und-Paulweg,,,,way
 Pfauengässlein,,,,way
 Philosophentalweg,,,,way
@@ -530,6 +553,7 @@ Riederenholzweg,,,,way
 Riederenweg,,,,way
 Riethüslistrasse,,,,way
 Riethüsliweg,,,,way
+Rietstrasse,,,,way
 Rietweg,,,,way
 Ringelbergstrasse,,,,way
 Ringelbergweg,,,,way
@@ -604,6 +628,7 @@ Schoretshuebstrasse,,,,way
 Schoretshuebweg,,,,way
 Schreinerstrasse,,,,way
 Schreinerweg,,,,way
+Schulstrasse,,,,way
 Schuppisstrasse,,,,way
 Schützengartenweg,,,,way
 Schützengasse,,,,way
@@ -625,6 +650,7 @@ Sömmerliwald-Strasse,,,,way
 Sömmerliwaldstrasse,,,,way
 Sömmerliweg,,,,way
 Sonderstrasse,,,,way
+Sonderweg,,,,way
 Sonneggstrasse,,,,way
 Sonnenbergstrasse,,,,way
 Sonnenbergweg,,,,way
@@ -640,6 +666,7 @@ Speichersteig,,,,way
 Spichermannstrasse,,,,way
 Spichermannweg,,,,way
 Spiltrücklistrasse,,,,way
+Spiltrückliweg,,,,way
 Spinnereistrasse,,,,way
 Spinnereiweg,,,,way
 Spiseggbrücke,,,,way
@@ -694,6 +721,7 @@ Tannenstrasse,,,,way
 Tempelackerstrasse,,,,way
 Tigerbergstrasse,,,,way
 Tivoliweg,,,,way
+Toggenburggässlein,,,,way
 Torstrasse,,,,way
 Treuackerstrasse,,,,way
 Tulpenweg,,,,way
@@ -709,6 +737,7 @@ Ulmenstrasse,,,,way
 "Unterer Graben",,,,way
 "Unterer Hompeliweg",,,,way
 "Unterer Leimatweg",,,,way
+Untergädmenweg,,,,way
 Unterkapfweg,,,,way
 Unterstrasse,,,,way
 Urnäschstrasse,,,,way
@@ -721,6 +750,7 @@ Volksbadstrasse,,,,way
 Vonwilstrasse,,,,way
 Waaghausweg,,,,way
 Wagenwaldstrasse,,,,way
+Wägenwaldstrasse,,,,way
 Wagnerstrasse,,,,way
 Waisenhausstrasse,,,,way
 Waisenhaustreppe,,,,way
@@ -746,6 +776,7 @@ Wehrstrasse,,,,way
 Weiherweidstrasse,,,,way
 Weiherweidweg,,,,way
 Werkstrasse,,,,way
+Wiboradaweg,,,,way
 Wienerbergstrasse,,,,way
 Wiesenbachstrasse,,,,way
 Wiesenmühleweg,,,,way
